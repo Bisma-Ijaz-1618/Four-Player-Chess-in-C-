@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\DELL\source\repos\Project2\Project2\Source.c(116,13): warning C4098: 'main': 'void' function returning a value
+  Project2.vcxproj -> C:\Users\DELL\source\repos\Project2\x64\Debug\Project2.exe
